@@ -2,4 +2,6 @@ Instalar:
 
     NodeJS
     VSCode
-        Dentro do Code colocar a extensão CodeRunner
+        Dentro do Code colocar as extensões:
+            CodeRunner
+            LiveServer

@@ -1,0 +1,2 @@
+- No VSCode ao digitar uma ! ou html:5 em um arquivo HTML ele sugere criar todo arqcabouço inicial da página
+- Colocar o script do JS dentro do body é mais eficiente
